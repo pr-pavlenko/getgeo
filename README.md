@@ -1,5 +1,6 @@
 # GetGeo - Google Sheets Custom Function for Geocoding
 
+Replace with your API key on line 28
 Use the formula as before: =getGeo("O", "P" & ROW())
 
 This repository provides a custom function for Google Sheets that geocodes a city and state into latitude and longitude using the geocode.maps.co API. It allows users to input the column letters for the City and State, and the function will return the coordinates as latitude,longitude.
