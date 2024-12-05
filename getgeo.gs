@@ -1,4 +1,4 @@
-**
+/**
  * Get Geographic Coordinates
  * @Author: Roman Pavlenko
  * @param {string} cityColumn The column letter for the city (e.g., "O").
